@@ -181,7 +181,7 @@ static const uint8_t LOWBATTERY_VIBE = 1;
 // RANGE 0-240
 // IF YOU WANT TO WAIT LONGER TO GET CONDITION, INCREASE NUMBER
 static const uint8_t CGMOUT_WAIT_MIN = 15;
-static const uint8_t PHONEOUT_WAIT_MIN = 10;
+static const uint8_t PHONEOUT_WAIT_MIN = 20;
 
 // Control Messages
 // IF YOU DO NOT WANT A SPECIFIC MESSAGE, SET TO true
